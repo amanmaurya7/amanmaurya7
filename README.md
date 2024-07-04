@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: amanmaurya@example.com
 
-- ⚡ Fun fact: I love hiking and playing the guitar 🎸.
+- ⚡ Fun fact: nothing 🎸.
 
 <br>
 
