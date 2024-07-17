@@ -13,27 +13,21 @@
 
 - 🌱 I’m currently learning Advanced Algorithms and System Design
 
-- 📫 How to reach me: amanmaurya@example.com
+- 📫 How to reach me: amanmaurya9653@gmail.com
 
-- ⚡ Fun fact: nothing 🎸.
+- ⚡ Fun fact: nothing.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/amanmaurya/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/amanmaurya-me/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="amanmaurya" height="30" width="40" /></a>
-  <a href="https://fb.com/amanmaurya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="amanmaurya" height="30" width="40" /></a>
-  <a href="https://instagram.com/amanmaurya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="amanmaurya" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/amanmaurya" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="amanmaurya" height="30" width="40" /></a>
- <a href="https://twitter.com/amanmaurya" target="blank"><img align="center"
+ <a href="https://twitter.com/amaniist" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="amanmaurya" height="30" width="40" /></a>
 </p>
@@ -115,4 +109,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[amanmaurya](https://github.com/amanmaurya)
+[amanmaurya](https://github.com/amanmaurya7)
