@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Advanced Algorithms and System Design
 
-- 📫 How to reach me: amanmaurya9653@gmail.com
+- 📫 How to reach me: mauryaaman9653@gmail.com
 
 - ⚡ Fun fact: nothing.
 
