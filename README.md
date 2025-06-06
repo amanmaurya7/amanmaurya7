@@ -1,4 +1,3 @@
-
 <div align="center">
   
   <!-- Animated Header -->
@@ -184,9 +183,8 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </div>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=amanmaurya7&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <!-- profile view count-->
+  <img src="https://img.shields.io/badge/Profile%20Views-1001-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" style="margin-right: 10px;"/>
     <img src="https://img.shields.io/github/followers/amanmaurya7?style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
     <img src="https://img.shields.io/github/stars/amanmaurya7?style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars"/>
   </div>
