@@ -42,17 +42,17 @@
   
   ### 💻 **Programming Languages**
   <div>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,cpp,go" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python" alt="Programming Languages" />
   </div>
   
   ### 🎨 **Frontend Development**
   <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,css,html,figma" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,figma" alt="Frontend" />
   </div>
   
   ### ⚙️ **Backend & Databases**
   <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,graphql,prisma" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend" />
   </div>
   
   ### ☁️ **Cloud & DevOps**
@@ -62,12 +62,12 @@
   
   ### 📱 **Mobile Development**
   <div>
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,kotlin" alt="Mobile" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,react" alt="Mobile" />
   </div>
   
   ### 🛠️ **Tools & Design**
   <div>
-    <img src="https://skillicons.dev/icons?i=figma,canva,photoshop,vscode,postman,notion" alt="Design & Tools" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,notion" alt="Design & Tools" />
   </div>
   
 </div>
