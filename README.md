@@ -14,7 +14,6 @@
 
 <!-- About Me Section with Modern Card Design -->
 <div align="center">
-  <img src="https://github.com/amanmaurya7.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #A855F7;"/>
   
   ### 🚀 **Software Developer & Technical Leader**
   📍 **Mumbai, India** | 💼 **Technical Head at GFG-TCET**
