@@ -16,7 +16,7 @@
 <div align="center">
   
   ### 🚀 **Software Developer & Technical Leader**
-  📍 **Mumbai, India** | 💼 **Technical Head at GFG-TCET**
+  📍 **Mumbai, India**
   
 </div>
 
