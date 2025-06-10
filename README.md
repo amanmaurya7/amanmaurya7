@@ -141,25 +141,6 @@
   
 </div>
 
-<!-- Contribution Metrics -->
-<div align="center">
-  
-  ## 🎯 **Contribution Insights**
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanmaurya7&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Language Distribution" />
-      </td>
-      <td>
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/amanmaurya7?cardType=level&theme=tokyonight&preferLogin=false" alt="GitHub Level" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-
 <!-- Connect With Me -->
 <div align="center">
   
