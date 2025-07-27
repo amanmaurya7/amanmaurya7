@@ -42,22 +42,22 @@
   
   ### 💻 **Programming Languages**
   <div>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=typescript,java" alt="Programming Languages" />
   </div>
   
   ### 🎨 **Frontend Development**
   <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,figma" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,css,html,figma" alt="Frontend" />
   </div>
   
   ### ⚙️ **Backend & Databases**
   <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
   </div>
   
   ### ☁️ **Cloud & DevOps**
   <div>
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,git,github,vercel" alt="Cloud & DevOps" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vercel" alt="Cloud & DevOps" />
   </div>
   
   ### 📱 **Mobile Development**
