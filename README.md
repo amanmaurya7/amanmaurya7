@@ -28,7 +28,7 @@
 - 👯 **Collaboration:** Always open to exciting projects and partnerships
 - 🎯 **Focus:** Web development, mobile apps, and technical leadership
 - 💡 **Passion:** Exploring cutting-edge technologies and mentoring developers
-- 🌐 **Portfolio:** [amanengineer.me](https://amanengineer.me)
+- 🌐 **Portfolio:** [amanengineer.me](https://amanengineer.vercel.app/)
 - ⚡ **Fun Fact:** I turn coffee into code and ideas into reality!
 
 <br clear="both">
