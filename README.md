@@ -42,7 +42,7 @@
   
   ### 💻 **Programming Languages**
   <div>
-    <img src="https://skillicons.dev/icons?i=typescript,java" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=typescript,python,java" alt="Programming Languages" />
   </div>
   
   ### 🎨 **Frontend Development**
@@ -52,7 +52,7 @@
   
   ### ⚙️ **Backend & Databases**
   <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=fastAPI" alt="Backend" />
   </div>
   
   ### ☁️ **Cloud & DevOps**
