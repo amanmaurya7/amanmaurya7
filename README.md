@@ -52,7 +52,7 @@
   
   ### ⚙️ **Backend & Databases**
   <div>
-    <img src="https://skillicons.dev/icons?i=fastAPI" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="Backend" />
   </div>
   
   ### ☁️ **Cloud & DevOps**
