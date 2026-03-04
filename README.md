@@ -24,7 +24,7 @@
 ### 🎯 **About Me**
 
 - 🔭 **Currently Building:** Scalable software solutions and leading tech innovations
-- 🌱 **Learning:** Advanced cloud architectures and AI integration
+- 🌱 **Learning:** Agentic AI
 - 👯 **Collaboration:** Always open to exciting projects and partnerships
 - 🎯 **Focus:** Web development, mobile apps, and technical leadership
 - 💡 **Passion:** Exploring cutting-edge technologies and mentoring developers
